@@ -1,0 +1,42 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+h1{
+	margin-bottom: 21px;
+	color: #7C3165;
+	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 20px;
+	font-variant: small-caps;
+}
+p{
+	margin-bottom: 21px;
+	color: rgba(255, 0, 0, 0.5);
+	letter-spacing: 0.01em;
+	word-spacing: 0.02em;
+	text-indent: 20px;
+}
+span.risco{
+	text-decoration: line-through;
+	text-transform: capitalize;
+}
+span.indice{
+	vertical-align: sub;
+}
+ul{
+	padding-left: 40px;
+	list-style-type: disc;
+}
+ul li{
+	height: 20px;
+	color: darkred;
+}
+
+div{
+	width: 500px;
+	height: 250px;
+	border: 1px solid black;
+	padding-left: 5px;
+	background: url("../img/flores.jpg") no-repeat bottom right #E1EFBB scroll;
+}
