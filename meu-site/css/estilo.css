@@ -1,0 +1,212 @@
+body{
+
+}
+.navbar{
+	margin-bottom: 0;
+	display: none;
+	margin-top:  -15px!important;
+}
+
+section#principal{
+	background-color: #e879ab;
+	background: -webkit-linear-gradient(#e879ab 50%, #fcbe75 100%);
+	background: -o-linear-gradient(#e879ab 50%, #fcbe75 100%);
+	background: linear-gradient(#e879ab 50%, #fcbe75 100%);
+	height: 689px;
+}
+section#principal h1{
+	
+}
+section#principal i#bars{
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 20px;
+	vertical-align: middle;
+	cursor: pointer;
+
+	text-align: center;
+	background-color: #e879ab;
+	color: #fff;
+	cursor: pointer;
+	position: fixed;
+}
+div.name{
+	padding-top: 10%;
+	padding-bottom: 10%;
+	height: 127px;
+	line-height: 127px;
+}
+div.name h1{
+	font-size: 100px;
+	color: #fff;
+	text-align: center;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 800;
+	text-transform: uppercase;
+}
+div.subtitulo{
+	height: 56px; 
+	line-height: 56px;
+	padding-top: 5%;
+	
+}
+div.subtitulo h1{
+	font-size: 50px; 
+	height: 56px; 
+	line-height: 56px; 
+	color: #80435e;
+	text-align: center;
+}
+div.info{
+	padding-top: 10%;
+	height: 48px;
+	line-height: 40px;
+}
+div.info .fa-stack{
+	margin: 4%;
+
+}
+div.info a{
+	color: #000;
+	text-decoration: none;
+}
+section#sobre{
+	margin-top: 5%;
+	margin-bottom: 5%;
+	padding-top: 5%;
+	height: 689px;
+}
+section#sobre p{
+	padding-top: 2%;
+	font-size: 16px;
+}
+section#sobre h2{
+	margin-bottom: 5%;
+	text-align: center;
+}
+section#sobre img{
+	margin-right: 20%;
+}
+section#skills{
+	height: 689px;
+}
+
+section#skills .row{
+	margin-top: 10%;
+	margin-bottom: 5%;
+}
+section#skills div.thumbnail{
+	display: block;
+	padding: 4px;
+	padding-top: 28px;
+	line-height: 20px;
+	border-radius: 500px;
+	height: 200px;
+	width: 200px;
+	background-color: #fff;
+	border: 6px solid #e6e6e6;
+	margin-top: -20px;
+	margin: 0 auto;
+	text-align: center;
+	line-height: 20px;
+}
+section#skills h2{
+	padding-bottom: 2%;
+	text-align: center;
+
+}
+section#portfolio{
+	margin-top: 5%;
+	margin-bottom: 10%;
+	height: 689px;
+}
+section#portfolio .row{
+	margin-top: 5%;
+}
+section#portfolio h2{
+	padding-bottom: 2%;
+	text-align: center;
+}
+section#portfolio .thumbnail{
+	background-color: #F5F5F5;
+	border: none;
+	padding-top: 5%;
+}
+section#artigo{
+	margin-top: 5%;
+	margin-bottom: 5%;
+	height: 689px;
+}
+section#artigo .row{
+	margin-top: 5%;
+}
+section#artigo h2{
+	padding-bottom: 2%;
+	text-align: center;
+}
+section#artigo p{
+	text-align: justify;
+	font-size: 16px;
+}
+section#artigo img{
+	margin-top: 15%;
+	margin-left: 20%;
+}
+
+section#contato{
+	margin-top: 5%;
+	margin-bottom: 5%;
+	
+}
+section#contato h2{
+	padding-bottom: 2%;
+	text-align: center;
+}
+section#contato form{
+	
+	background: #F5F5F5;
+	padding: 5%;
+}
+section#form-contato{
+
+}
+section#social{
+	
+	padding-bottom: 10%;
+	margin-right: 20%;
+	margin-left: 20%;
+	display: inline-table;
+	margin-top: 30px;
+
+}
+.fa-stack{
+	margin-left: 0;
+	margin-right: 80px;
+	padding-right: 30px;
+	width: 40px;
+	height: 40px;
+	line-height: 20px;
+}
+.fa-stack a{
+	color:#000;
+	float: left;
+	
+
+}
+.fa-stack a:hover{
+	text-decoration:none;
+	color: #ccc;
+}
+
+footer #rodape{
+	background-color:#E0E0E0;
+	height:150px;
+	text-align:center;
+	padding-top:50px;
+}
+#bars{
+
+}
+
